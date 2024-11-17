@@ -11,3 +11,6 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
    https://www.youtube.com/watch?v=UbaaIuDYTEs 
 6) Spark By Examples for Practise :    login - santosh90                                                                                                       
    https://sparkbyexamples.com/apache-spark-rdd/how-to-create-an-rdd-using-parallelize/
+7) Waves - Sound Waves & Standing Waves | JEE Physics | Class 12 Physics | JEE EAPCET 2025 | Madhan Sir                                                                            https://www.youtube.com/watch?v=x3Cf92pQ9Qs&list=PLFyyvHNAZ0QaPdXx6w4gJmZAD8NagZgYQ
+8) Become GOD of PHYSICS in 3 Months - Target IIT Bombay 🔥                                                                                        
+   https://www.youtube.com/watch?v=WiWsnItm9JU
