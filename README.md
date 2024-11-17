@@ -16,3 +16,12 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
    https://www.youtube.com/watch?v=WiWsnItm9JU
 9) మీ లైఫ్ ని ఇలా చేంజ్ చేసుకుంటే మిమ్మల్ని ఎవ్వరు వేలెత్తి చూపరు.. #impactfoundation #education                                                      
    https://www.youtube.com/watch?v=g4-am7TlT38
+10) అక్కడ కూర్చొని మాట్లాడే గట్స్ ఉంటే..ఇక్కడకు వచ్చి మాట్లాడండి.. #sudheersandra #impactfoundation                                                          
+    https://www.youtube.com/watch?v=4t93QWXw_5A
+11) టైం అనేది ఇన్వెస్ట్‌మెంట్లా భావించినప్పుడే జీవితంలో మనం ఎదిగే అవకాశం ఉంటుంది.. #impactfoundation                                               
+    https://www.youtube.com/watch?v=_GAi0xa-Uds
+12) @AblazeDeep  How to study 12 hours daily by Alakh sir #trending #status #alakhsir #pw #motivation #viralvideo                    
+    https://www.youtube.com/shorts/MJ8QaNbggmg
+13) trick to remember Mass no #cbse #vedantutelugu #physics                                                                                                                   
+    https://www.youtube.com/shorts/rAaxbH0-CnM
+14) 
