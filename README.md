@@ -24,4 +24,5 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
     https://www.youtube.com/shorts/MJ8QaNbggmg
 13) trick to remember Mass no #cbse #vedantutelugu #physics                                                                                                                   
     https://www.youtube.com/shorts/rAaxbH0-CnM
-14) 
+14) Apache Arrow Format:                                                                                                                         
+    https://vutr.substack.com/p/i-spent-6-hours-learning-apache-arrow?utm_source=post-email-title&publication_id=1930705&post_id=149994782&utm_campaign=email-post-title&isFreemail=true&r=231wh1&triedRedirect=true&utm_medium=email
