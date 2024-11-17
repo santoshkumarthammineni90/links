@@ -27,3 +27,9 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
 14) Apache Arrow Format:                                                                                                                         
     https://vutr.substack.com/p/i-spent-6-hours-learning-apache-arrow?utm_source=post-email-title&publication_id=1930705&post_id=149994782&utm_campaign=email-post-title&isFreemail=true&r=231wh1&triedRedirect=true&utm_medium=email
 15) www.cleverstudies.in - https://www.youtube.com/results?search_query=clever+studies
+16) Others ADF -  https://www.youtube.com/results?search_query=azure+data+factory
+17) Learn Azure Data Factory (ADF) in 8 Minutes- Explained simple | ADF Tutorials for Beginners  k.Talks                                         
+    https://www.youtube.com/watch?v=j5HUv8RvuL4&list=PLrG_BXEk3kXwTClTt3_28CMz2dZoaFhKD
+18) https://www.bosscoderacademy.com/senior-software-engineer?utm_campaign=Dgen-EV-GLP-18Apr24-GAds&utm_medium=Display&utm_source=Google-Ads&Ref=GoogleAds-EV-DGen-Int-Laxmi-18Apr24&gclid=Cj0KCQjwm5e5BhCWARIsANwm06h95XMSkVaozaKuRKqtIWE7l0eGX0c1vobcMOgizJLo5VUMDXjPxZkaAswcEALw_wcB
+19) TP Link Router Configurations while connecting to Outsource                                                                                         
+    http://192.168.1.1/cgi-bin/login.asp
