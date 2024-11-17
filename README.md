@@ -7,3 +7,5 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
    https://www.youtube.com/watch?v=g_yxS25W_To
 4) MEGA IMPACT 2024 ఆగస్టు 1,2,3 తేదీల్లో.. #gampanageshwerrao #impactfoundation #sudheersandra                                                         
    https://www.youtube.com/watch?v=ugHOgEmWB6w&list=PL7uCJlUUrq7HLDRbLIgjkgP8wTNhT8eL8&index=2
+5) ఎప్పుడు ఏది జరగాలో అదే జరుగుతుంది.. #venugopal #impactfoundation #motivationalspeeches                                                         
+   https://www.youtube.com/watch?v=UbaaIuDYTEs 
