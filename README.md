@@ -14,3 +14,5 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
 7) Waves - Sound Waves & Standing Waves | JEE Physics | Class 12 Physics | JEE EAPCET 2025 | Madhan Sir                                                                            https://www.youtube.com/watch?v=x3Cf92pQ9Qs&list=PLFyyvHNAZ0QaPdXx6w4gJmZAD8NagZgYQ
 8) Become GOD of PHYSICS in 3 Months - Target IIT Bombay 🔥                                                                                        
    https://www.youtube.com/watch?v=WiWsnItm9JU
+9) మీ లైఫ్ ని ఇలా చేంజ్ చేసుకుంటే మిమ్మల్ని ఎవ్వరు వేలెత్తి చూపరు.. #impactfoundation #education                                                      
+   https://www.youtube.com/watch?v=g4-am7TlT38
