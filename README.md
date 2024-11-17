@@ -9,5 +9,5 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
    https://www.youtube.com/watch?v=ugHOgEmWB6w&list=PL7uCJlUUrq7HLDRbLIgjkgP8wTNhT8eL8&index=2
 5) ఎప్పుడు ఏది జరగాలో అదే జరుగుతుంది.. #venugopal #impactfoundation #motivationalspeeches                                                         
    https://www.youtube.com/watch?v=UbaaIuDYTEs 
-6) Spark By Examples for Practise :                                                                                                           
+6) Spark By Examples for Practise :    login - santosh90                                                                                                       
    https://sparkbyexamples.com/apache-spark-rdd/how-to-create-an-rdd-using-parallelize/
