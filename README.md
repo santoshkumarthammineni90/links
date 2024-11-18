@@ -37,4 +37,6 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
     https://www.youtube.com/watch?v=sQzO7KZiXJk
 21) Zeyobron Real time Scenario Based Questions GITHUB Zeyobron Sai aditya:
     https://github.com/mohankrishna02/interview-scenerios-spark-sql
-22) 
+22) KVN Sunitha Compiler Design- Sunitha and Ravindra Babu Ravula:
+    https://learn.kvnsunitha.com/new-courses/1-compiler-design
+23) 
