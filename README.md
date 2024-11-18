@@ -72,3 +72,6 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
 49) CoE Arun Free Ebooks:   https://drive.google.com/drive/folders/15O4kMZsyiXSR8bYugW0qQLG1mHEJFafJ
 50) 12 Best Spark Coding Questions You Should Know for Your Next Data Job Interview
 Get Ready to Sparkle in Your Interview: https://blog.devgenius.io/12-best-spark-coding-questions-you-should-know-for-your-next-data-job-interview-512d6cbd0d02
+51) Intro to SQL Indexes - Data Engineering Central: https://dataengineeringcentral.substack.com/p/intro-to-sql-indexes
+52) 184. Department Highest Salary Leetcode: https://leetcode.com/problems/department-highest-salary/description/
+53) 
