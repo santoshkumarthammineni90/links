@@ -64,4 +64,5 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
 41) GX login login : http://192.168.1.1/cgi-bin/login.asp
 42) AWS CSA Google Drive Downloads: https://drive.google.com/drive/folders/14n1N0mMBhr3bsHwYwNs3MI5h51RlTk6F
 43) Introduction to Databricks and PySpark | Full Course |Introduction to Databricks | How to setup Account |: https://www.youtube.com/watch?v=uvrrN8aqZW0&list=PLxy0DxWEupiNjGSv1hzRFBXgSzV-bZu94
-44) 
+44) MechgirlToMathgirl Bhavani Maheshwari Miss :  https://www.youtube.com/@MechgirlToMathgirl
+45) 
