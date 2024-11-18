@@ -62,4 +62,5 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
 39) DataFlair Apache Spark vs Hadoop MapReduce – Feature Wise Comparison [Infographic] : https://data-flair.training/blogs/spark-vs-hadoop-mapreduce/
 40) codeshare editor  : https://codeshare.io/kafka
 41) GX login login : http://192.168.1.1/cgi-bin/login.asp
-42) 
+42) AWS CSA Google Drive Downloads: https://drive.google.com/drive/folders/14n1N0mMBhr3bsHwYwNs3MI5h51RlTk6F
+43) 
