@@ -33,3 +33,6 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
 18) https://www.bosscoderacademy.com/senior-software-engineer?utm_campaign=Dgen-EV-GLP-18Apr24-GAds&utm_medium=Display&utm_source=Google-Ads&Ref=GoogleAds-EV-DGen-Int-Laxmi-18Apr24&gclid=Cj0KCQjwm5e5BhCWARIsANwm06h95XMSkVaozaKuRKqtIWE7l0eGX0c1vobcMOgizJLo5VUMDXjPxZkaAswcEALw_wcB
 19) TP Link Router Configurations while connecting to Outsource                                                                                         
     http://192.168.1.1/cgi-bin/login.asp
+20) Big Data Workshop Beginners Bigdata Zeyobron Saiaditya:                                                                                      
+    https://www.youtube.com/watch?v=sQzO7KZiXJk
+21) 
