@@ -45,4 +45,9 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
 25) Complete Interview Preparation kit - Data Engineer Shubham Wadekar:
     https://topmate.io/shubham_wadekar/1038815
 26) Agilisium Website:  https://www.agilisium.com/corporate-social-responsibilities
-27) 
+27) dataquest website for practise: https://app.dataquest.io/login?target-url=/dashboard?data-elevio-article%3D791
+28) Akhil Vydyula Datawarehousing Datamarathon PDF Material Download: https://topmate.io/buydoc-success/1291740?booking=727bd47a-392c-46e1-8f2b-de5a83315b64
+    https://drive.google.com/drive/folders/1bwPFVr7kp9puvay6c5AiNlLLUmPv37tc
+29) Whatsapp System Design https://www.codekarle.com/system-design/Whatsapp-system-design.html
+30) Overview of Production Data Streaming:  https://developer.confluent.io/courses/data-streaming-systems/overview/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.dsa_mt.dsa_rgn.india_lng.eng_dv.all_con.confluent-developer&utm_term=&creative=&device=c&placement=&gad_source=1&gclid=Cj0KCQjwm5e5BhCWARIsANwm06jO-6u44b3vt4DyRx0aOeSym0P-8_x9jrvByDW0D7sVhJAuKN226C0aAsAfEALw_wcB
+31) 
