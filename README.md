@@ -69,4 +69,5 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
 46) Workshop Hadoop Scala Spark Arvind Agarwal- arvindbcamca@gmail.com:  https://drive.google.com/drive/folders/17CeOFjSdgCdEcLhRKLA-5RtaDGTK9gyN
 47) Ad-hoc session_17-07-2024 Technest Academy Mohd Tanweer Khan:  https://www.youtube.com/watch?v=GyIoTgsLbJs
 48) KingsGambitLabs DSA: https://github.com/KingsGambitLab/Lecture_Notes/blob/master/Academy%20DSA%20Typed%20Notes/Python%20Refresher/Refresher%20Functions
-49) 
+49) CoE Arun Free Ebooks:   https://drive.google.com/drive/folders/15O4kMZsyiXSR8bYugW0qQLG1mHEJFafJ
+50) 
