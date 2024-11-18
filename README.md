@@ -35,4 +35,6 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
     http://192.168.1.1/cgi-bin/login.asp
 20) Big Data Workshop Beginners Bigdata Zeyobron Saiaditya:                                                                                      
     https://www.youtube.com/watch?v=sQzO7KZiXJk
-21) 
+21) Zeyobron Real time Scenario Based Questions GITHUB Zeyobron Sai aditya:
+    https://github.com/mohankrishna02/interview-scenerios-spark-sql
+22) 
