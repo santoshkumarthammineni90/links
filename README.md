@@ -55,4 +55,7 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
 33) Programmiz Online SQL Editor : https://www.programiz.com/sql/online-compiler/
 34) Programmiz Online Python Editor : https://www.programiz.com/python-programming/online-compiler/
 35) Python Drive ebooks download: https://drive.google.com/drive/folders/1oSX4mee0mGMUmfcS3MbNuw0OsEDfYBTw
-36) 
+36) Bhaskar Jogi ADF ADF demo Part2 - October 22nd 2024 | Bhaskar Jogi | Go Online Trainings | 90000 75637: https://www.youtube.com/watch?v=mjcPdBTUKgY
+    Go Online Trainings (Bhaskar Jogi): https://www.youtube.com/@BhaskarJogiSQLandBI
+    Python Telugu Demo Part1 | Bhaskar Jogi | Go Online Trainings | 90000 75637: https://www.youtube.com/watch?v=lNrKAvATm2U&list=PLskvRY5fTxge3Bs159UjbDvo6ccCPqMJR&index=2
+38) 
