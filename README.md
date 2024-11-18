@@ -70,4 +70,5 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
 47) Ad-hoc session_17-07-2024 Technest Academy Mohd Tanweer Khan:  https://www.youtube.com/watch?v=GyIoTgsLbJs
 48) KingsGambitLabs DSA: https://github.com/KingsGambitLab/Lecture_Notes/blob/master/Academy%20DSA%20Typed%20Notes/Python%20Refresher/Refresher%20Functions
 49) CoE Arun Free Ebooks:   https://drive.google.com/drive/folders/15O4kMZsyiXSR8bYugW0qQLG1mHEJFafJ
-50) 
+50) 12 Best Spark Coding Questions You Should Know for Your Next Data Job Interview
+Get Ready to Sparkle in Your Interview: https://blog.devgenius.io/12-best-spark-coding-questions-you-should-know-for-your-next-data-job-interview-512d6cbd0d02
