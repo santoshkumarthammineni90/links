@@ -77,4 +77,17 @@ Get Ready to Sparkle in Your Interview: https://blog.devgenius.io/12-best-spark-
 53) Interview For U - Ashish- https://www.youtube.com/@interviewforu?app=desktop
 54) contactsantoshkumar9@gmail Google drive link - https://drive.google.com/drive/my-drive
 55) Vision board Devika EY Graphy platform - https://visionboard.graphy.com/t/u/activeCourses
-56) 
+56) santoshkumardebigdata@gmail.com  gmail - pwd Stalinyes@90
+57) santoshkumarwise90@gmail.com
+    santhoshkumarwise90@gmail.com
+    contactsantoshkumar9@gmail.com
+    santhosh.raju94@gmail.com  
+    santosh.thammineni@yahoo.com  
+    santosh.thammineni@outlook.com Stalinyes@90
+    santosh.thammineni9@outlook.com  Stalinyes@90
+    thamminenis@outlook.com@gmail.com   
+    contactsantoshkumar9@gmail.com  for outlook teams not avaialable
+
+58) 
+    
+    
