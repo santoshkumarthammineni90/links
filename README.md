@@ -39,4 +39,5 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
     https://github.com/mohankrishna02/interview-scenerios-spark-sql
 22) KVN Sunitha Compiler Design- Sunitha and Ravindra Babu Ravula:
     https://learn.kvnsunitha.com/new-courses/1-compiler-design
-23) 
+23) Developer Roadmaps  Tool for Practise:  https://roadmap.sh/
+24) 
