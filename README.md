@@ -66,4 +66,7 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
 43) Introduction to Databricks and PySpark | Full Course |Introduction to Databricks | How to setup Account |: https://www.youtube.com/watch?v=uvrrN8aqZW0&list=PLxy0DxWEupiNjGSv1hzRFBXgSzV-bZu94
 44) MechgirlToMathgirl Bhavani Maheshwari Miss :  https://www.youtube.com/@MechgirlToMathgirl
 45) GITHUB Link Santosh Kumar Thammineni contactsantoshkumar9@gmail.com:  https://github.com/Santoshkumarthammineni
-46) 
+46) Workshop Hadoop Scala Spark Arvind Agarwal- arvindbcamca@gmail.com:  https://drive.google.com/drive/folders/17CeOFjSdgCdEcLhRKLA-5RtaDGTK9gyN
+47) Ad-hoc session_17-07-2024 Technest Academy Mohd Tanweer Khan:  https://www.youtube.com/watch?v=GyIoTgsLbJs
+48) KingsGambitLabs DSA: https://github.com/KingsGambitLab/Lecture_Notes/blob/master/Academy%20DSA%20Typed%20Notes/Python%20Refresher/Refresher%20Functions
+49) 
