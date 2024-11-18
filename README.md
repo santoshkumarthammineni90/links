@@ -54,3 +54,5 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
 32) Running Apache Spark on Kubernetes :  https://medium.com/empathyco/running-apache-spark-on-kubernetes-2e64c73d0bb2
 33) Programmiz Online SQL Editor : https://www.programiz.com/sql/online-compiler/
 34) Programmiz Online Python Editor : https://www.programiz.com/python-programming/online-compiler/
+35) Python Drive ebooks download: https://drive.google.com/drive/folders/1oSX4mee0mGMUmfcS3MbNuw0OsEDfYBTw
+36) 
