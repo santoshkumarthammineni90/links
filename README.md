@@ -40,4 +40,9 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
 22) KVN Sunitha Compiler Design- Sunitha and Ravindra Babu Ravula:
     https://learn.kvnsunitha.com/new-courses/1-compiler-design
 23) Developer Roadmaps  Tool for Practise:  https://roadmap.sh/
-24) 
+24) Seekho Bigdata Program - Karthik Kondpak Website:
+    https://www.seekhobigdata.com/30871
+25) Complete Interview Preparation kit - Data Engineer Shubham Wadekar:
+    https://topmate.io/shubham_wadekar/1038815
+26) Agilisium Website:  https://www.agilisium.com/corporate-social-responsibilities
+27) 
