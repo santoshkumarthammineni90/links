@@ -50,4 +50,7 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
     https://drive.google.com/drive/folders/1bwPFVr7kp9puvay6c5AiNlLLUmPv37tc
 29) Whatsapp System Design https://www.codekarle.com/system-design/Whatsapp-system-design.html
 30) Overview of Production Data Streaming:  https://developer.confluent.io/courses/data-streaming-systems/overview/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.dsa_mt.dsa_rgn.india_lng.eng_dv.all_con.confluent-developer&utm_term=&creative=&device=c&placement=&gad_source=1&gclid=Cj0KCQjwm5e5BhCWARIsANwm06jO-6u44b3vt4DyRx0aOeSym0P-8_x9jrvByDW0D7sVhJAuKN226C0aAsAfEALw_wcB
-31) 
+31) All Github Free ebooks Download:  https://github.com/shshankar1/ebooks/blob/master/Dsa.pdf
+32) Running Apache Spark on Kubernetes :  https://medium.com/empathyco/running-apache-spark-on-kubernetes-2e64c73d0bb2
+33) Programmiz Online SQL Editor : https://www.programiz.com/sql/online-compiler/
+34) Programmiz Online Python Editor : https://www.programiz.com/python-programming/online-compiler/
