@@ -59,4 +59,6 @@ https://www.youtube.com/watch?v=jAqBpInLf1s
     Go Online Trainings (Bhaskar Jogi): https://www.youtube.com/@BhaskarJogiSQLandBI
     Python Telugu Demo Part1 | Bhaskar Jogi | Go Online Trainings | 90000 75637: https://www.youtube.com/watch?v=lNrKAvATm2U&list=PLskvRY5fTxge3Bs159UjbDvo6ccCPqMJR&index=2
 38) mahak3019-DataEng/Azure_endToend_dataEngineering_unityCatalog_project: https://github.com/mahak3019-DataEng/Azure_endToend_dataEngineering_unityCatalog_project
-39) 
+39) DataFlair Apache Spark vs Hadoop MapReduce – Feature Wise Comparison [Infographic] : https://data-flair.training/blogs/spark-vs-hadoop-mapreduce/
+40) codeshare editor  : https://codeshare.io/kafka
+41) 
