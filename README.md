@@ -83,11 +83,14 @@ Get Ready to Sparkle in Your Interview: https://blog.devgenius.io/12-best-spark-
     contactsantoshkumar9@gmail.com
     santhosh.raju94@gmail.com  
     santosh.thammineni@yahoo.com  
-    santosh.thammineni@outlook.com Stalinyes@90
-    santosh.thammineni9@outlook.com  Stalinyes@90
+    santosh.thammineni@outlook.com       Stalinyes@90
+    santosh.thammineni9@outlook.com      Stalinyes@90
     thamminenis@outlook.com@gmail.com   
     contactsantoshkumar9@gmail.com  for outlook teams not avaialable
+    santoshkumarthammineni90@gmail.com
+    santoshkumarthammineni9@gmail.com
+    santoshkumar.bigdata24@gmail.com
 
-58) 
+59) 
     
     
