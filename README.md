@@ -92,5 +92,11 @@ Get Ready to Sparkle in Your Interview: https://blog.devgenius.io/12-best-spark-
     santoshkumar.bigdata24@gmail.com
 
 59) DSA Books free downloads: https://github.com/shshankar1/ebooks/blob/master/Dsa.pdf
+60) Akhil Vydyula Datasets for free
     
-    
+   https://drive.google.com/drive/folders/1bwPFVr7kp9puvay6c5AiNlLLUmPv37tc
+   https://drive.google.com/drive/folders/1qHLgokbUJaSuiaqUCzbuc-tDvunXpDoZ  
+   https://drive.google.com/drive/folders/1bwPFVr7kp9puvay6c5AiNlLLUmPv37tc
+
+61) 
+ 
