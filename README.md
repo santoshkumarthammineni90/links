@@ -103,5 +103,9 @@ Get Ready to Sparkle in Your Interview: https://blog.devgenius.io/12-best-spark-
 63) Python Telugu Tutorials - Regular Python:
     https://regularpython.com/python-tutorial-video-courses/python-play-course/3/30/python-tuple
 64) Ease with Data - Databricks Zero to Hero - https://www.youtube.com/playlist?list=PL2IsFZBGM_IGiAvVZWAEKX8gg1ItnxEEb
-65) 
+65) AIML drive Akhil vydyula- Practical ML Resources-https://drive.google.com/drive/folders/1FPDUynUS0R8eDmIs3q3fF6xAht0wl_q2
+https://drive.google.com/drive/folders/1yOOCzsBBnmp6iE2k6o-ddVZNskZkdsSR
+https://www.udemy.com/user/akhil-vydyula/
+66)MEGA DBMS   https://mega.nz/folder/IS9j1bTI#VtR6Ule6Lop8fY81rUUirQ/folder/hb9lzCyA
+67)  
  
