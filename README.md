@@ -99,4 +99,5 @@ Get Ready to Sparkle in Your Interview: https://blog.devgenius.io/12-best-spark-
    https://drive.google.com/drive/folders/1bwPFVr7kp9puvay6c5AiNlLLUmPv37tc
 
 61) Road map to ADE:  https://topmate-staging.s3.amazonaws.com/wU7w4cFRRyGm6Qf8jhVGZa.pdf
+62) Pyspark Documentation: https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/api/pyspark.sql.DataFrame.unpivot.html
  
