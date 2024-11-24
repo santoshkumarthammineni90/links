@@ -102,5 +102,6 @@ Get Ready to Sparkle in Your Interview: https://blog.devgenius.io/12-best-spark-
 62) Pyspark Documentation: https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/api/pyspark.sql.DataFrame.unpivot.html
 63) Python Telugu Tutorials - Regular Python:
     https://regularpython.com/python-tutorial-video-courses/python-play-course/3/30/python-tuple
-64) 
+64) Ease with Data - Databricks Zero to Hero - https://www.youtube.com/playlist?list=PL2IsFZBGM_IGiAvVZWAEKX8gg1ItnxEEb
+65) 
  
