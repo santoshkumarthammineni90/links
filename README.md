@@ -100,4 +100,7 @@ Get Ready to Sparkle in Your Interview: https://blog.devgenius.io/12-best-spark-
 
 61) Road map to ADE:  https://topmate-staging.s3.amazonaws.com/wU7w4cFRRyGm6Qf8jhVGZa.pdf
 62) Pyspark Documentation: https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/api/pyspark.sql.DataFrame.unpivot.html
+63) Python Telugu Tutorials - Regular Python:
+    https://regularpython.com/python-tutorial-video-courses/python-play-course/3/30/python-tuple
+64) 
  
