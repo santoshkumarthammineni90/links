@@ -108,5 +108,5 @@ Get Ready to Sparkle in Your Interview: https://blog.devgenius.io/12-best-spark-
        https://drive.google.com/drive/folders/1yOOCzsBBnmp6iE2k6o-ddVZNskZkdsSR
        https://www.udemy.com/user/akhil-vydyula/                                                                            66) MEGA DBMS -  https://mega.nz/folder/IS9j1bTI#VtR6Ule6Lop8fY81rUUirQ/folder/hb9lzCyA
 67) Anshuman Scaler SQL github - https://github.com/anshumansingh/SQLNotes/blob/main/01-intro-to-dbms-sql.md
-68) 
+68) JEE Main 2025 Most Important Chapters PYQs - https://drive.google.com/drive/u/0/folders/1N4fmubnNSOtFmr5-Q1XQ2RuKJDpH8sCf
  
